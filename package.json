@@ -1,0 +1,21 @@
+{
+  "name": "videojuego",
+  "version": "1.0.0",
+  "description": "Un videojuego de genrro novela visual",
+  "main": "app.js",
+  "scripts": {
+    "start": "node ./src/app.js",
+    "debug": "nodemon ./src/app.js -L"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.18.2",
+    "knex": "^3.0.1",
+    "mysql2": "^3.6.3"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
