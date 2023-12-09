@@ -23,7 +23,7 @@ Asegúrate de tener instalado y configurado Docker antes de comenzar.
 1. Clonar el repositorio en la máquina local:
    
    ```sh
-   git clone https://github.com/francerz/node-restful.git](https://github.com/DanielAP7/proyectoVEG.git
+   git clone https://github.com/DanielAP7/proyectoVEG.git
    ```
 
 2. Navegar al directorio del proyecto:
